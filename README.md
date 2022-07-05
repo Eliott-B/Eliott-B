@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
-**Eliott-B/Eliott-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Presentation
 
-Here are some ideas to get you started:
+*My name is Eliott, I'm a french coder.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My career
+
+- General Baccalaureate (Specialisation in computer science and mathematics)
+- University Bachelor of Technology in Computer Science
+
+## My passions
+
+- 💻 Technology
+- 🚗 Automobile
+- 🌱 Nature
+
+## My programming languages
+
+- Python
+- Javascript
+- HTML/CSS
+
+## My projects
+
+- Many school projects
+- Several Minecraft servers
+- Several Garry's Mod servers
+- Several FiveM servers (Like Simple V)
+- Several Discord communities
