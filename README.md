@@ -23,8 +23,7 @@
 
 ## My projects
 
-- Many school projects
-- Several Minecraft servers
-- Several Garry's Mod servers
-- Several FiveM servers (Like Simple V)
-- Several Discord communities
+- Many school mini-projects
+- Several Minecraft and Garry's Mod servers
+- "Simple V" - FiveM server
+- "Les dev en folie !" - Discord server + Bot Discord
