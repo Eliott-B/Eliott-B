@@ -28,9 +28,3 @@
 - ["Machine de cryptographie" - School project](https://github.com/Eliott-B/Grand-Projet-Cryptographie)
 - "Simple V" - FiveM server
 - ["Les dev en folie !" - Discord server + Bot Discord](https://discord.gg/HHBaHgdJxr)
-
-## Take an order
-
-**Bot Discord :**
-- English version : https://bit.ly/3ajeCJc
-- Version française : https://bit.ly/3Rj0Reb
