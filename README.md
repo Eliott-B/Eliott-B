@@ -24,7 +24,6 @@
 ## My projects
 
 - Many school mini-projects
-- Several Minecraft and Garry's Mod servers
+- Several Minecraft, Garry's Mod and FiveM servers
 - ["Machine de cryptographie" - School project](https://github.com/Eliott-B/Grand-Projet-Cryptographie)
-- "Simple V" - FiveM server
-- ["Les dev en folie !" - Discord server + Bot Discord](https://discord.gg/HHBaHgdJxr)
+- ["Terminal des devs" - Discord server + Bot Discord](https://discord.gg/eufdGDkQq5)
