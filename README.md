@@ -19,6 +19,7 @@
 
 - Python
 - Javascript
+- SQL
 - HTML/CSS
 
 ## My projects
