@@ -6,14 +6,8 @@
 
 ## My career
 
-- General Baccalaureate (Specialisation in computer science and mathematics)
-- University Bachelor of Technology in Computer Science
-
-## My passions
-
-- 💻 Technology
-- 🚗 Automobile
-- 🌱 Nature
+- General Baccalaureate (Specialisation in computer science and mathematics) / Bac Général (Maths, NSI, SI)
+- University Bachelor of Technology in Computer Science / BUT Informatique
 
 ## My programming languages
 
@@ -21,10 +15,13 @@
 - Javascript
 - SQL
 - HTML/CSS
+- Bash
 
 ## My projects
 
-- Many school mini-projects
-- Several Minecraft, Garry's Mod and FiveM servers
-- ["Machine de cryptographie" - School project](https://github.com/Eliott-B/Grand-Projet-Cryptographie)
-- ["Terminal des devs" - Discord server + Bot Discord](https://discord.gg/eufdGDkQq5)
+- Many school mini-projects / Plein de Mini-Projet de lycée.
+- Several Minecraft, Garry's Mod and FiveM servers / Plusieurs serveurs Minecraft, Garry's Mod et FiveM
+- ["Machine de cryptographie" - School project](https://github.com/Eliott-B/Grand-Projet-Cryptographie) / Grand Projet de NSI
+- ["Terminal des devs" - Discord server + Bot Discord](https://discord.gg/eufdGDkQq5) / BOT Discord et Serveur Discord
+- [Minesweeper](https://github.com/Chakib-Eliott/demineur) / Démineur
+*(Project descriptions can be in English or French) / (Les descriptions des projets peuvent être en Français ou en Anglais)*
