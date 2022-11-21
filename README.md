@@ -24,4 +24,5 @@
 - ["Machine de cryptographie" - School project](https://github.com/Eliott-B/Grand-Projet-Cryptographie) / Grand Projet de NSI
 - ["Terminal des devs" - Discord server + Bot Discord](https://discord.gg/eufdGDkQq5) / BOT Discord et Serveur Discord
 - [Minesweeper](https://github.com/Chakib-Eliott/demineur) / Démineur
+
 *(Project descriptions can be in English or French) / (Les descriptions des projets peuvent être en Français ou en Anglais)*
