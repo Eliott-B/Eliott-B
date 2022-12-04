@@ -25,4 +25,8 @@
 - ["Terminal des devs" - Discord server + Bot Discord](https://github.com/Eliott-B/bot-discord-terminal-des-devs) / BOT Discord et Serveur Discord
 - [Minesweeper](https://github.com/Chakib-Eliott/demineur) / Démineur
 
+## Support me 
+
+[![BuyMeACoffee](https://github.com/Eliott-B/Eliott-B/blob/main/asset/coffee.png)](https://www.buymeacoffee.com/eliottb)
+
 *(Project documentations can be in English or French) / (Les documentations des projets peuvent être en Français ou en Anglais)*
