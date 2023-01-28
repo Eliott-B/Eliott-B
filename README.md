@@ -4,11 +4,6 @@
 
 *My name is Eliott, I'm a french coder.*
 
-## My career
-
-- General Baccalaureate (Specialisation in computer science and mathematics) / Bac Général (Maths, NSI, SI)
-- University Bachelor of Technology in Computer Science / BUT Informatique
-
 ## My programming languages
 
 - Python
