@@ -7,18 +7,20 @@
 ## My programming languages
 
 - Python
-- Javascript
-- SQL
+- JavaScript (Node JS)
+- SQL (Oracle, MySQL)
 - HTML/CSS
 - Bash
 - LUA
 - Java
+- R
+- Assembler
 
 ## My projects
 
 - Several Minecraft, Garry's Mod and FiveM servers / Plusieurs serveurs Minecraft, Garry's Mod et FiveM
 - ["Machine de cryptographie" - School project](https://github.com/Eliott-B/Grand-Projet-Cryptographie) / Grand Projet de NSI
-- ["Terminal des devs" - Discord server + Bot Discord](https://github.com/Eliott-B/bot-discord-terminal-des-devs) / BOT Discord et Serveur Discord
+- ["Terminal des devs" - Discord server + Bot Discord](https://github.com/Eliott-B/bot-devs-terminal) / BOT Discord et Serveur Discord
 - [Minesweeper](https://github.com/Chakib-Eliott/demineur) / Démineur
 
 ## Support me 
