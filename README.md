@@ -1,7 +1,5 @@
 ### Hi everyone 👋
 
-## Presentation
-
 *My name is Eliott, I'm a french coder.*
 
 ## My projects
@@ -10,5 +8,10 @@
 - ["Machine de cryptographie" - School project](https://github.com/Eliott-B/Grand-Projet-Cryptographie) / Grand Projet de NSI
 - ["Terminal des devs" - Discord server + Bot Discord](https://discord.gg/eufdGDkQq5) / BOT Discord et Serveur Discord
 - [Minesweeper](https://github.com/Chakib-Eliott/demineur) / Démineur
+
+## School projects
+ 
+You can find some school projet here :  
+[GitHub Page](htps://github.com/Chakib-Eliott)
 
 *(Project documentations can be in English or French) / (Les documentations des projets peuvent être en Français ou en Anglais)*
