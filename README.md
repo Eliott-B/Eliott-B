@@ -12,6 +12,6 @@
 ## School projects
  
 You can find some school projet here :  
-[GitHub Page](htps://github.com/Chakib-Eliott)
+[GitHub Page](https://github.com/Chakib-Eliott)
 
 *(Project documentations can be in English or French) / (Les documentations des projets peuvent être en Français ou en Anglais)*
