@@ -16,9 +16,15 @@ You can find some school projet here :
 
 *(Project documentations can be in English or French) / (Les documentations des projets peuvent être en Français ou en Anglais)*
 
+## STATISTICS
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliott-b&show_icons=true&locale=en&layout=compact" alt="eliott-b"/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliott-b&show_icons=true&locale=en" alt="eliott-b"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliott-b&" alt="eliott-b"/>
+
 ## HELP
 
-If you need help, you can contact me on Discord: Eliott#5072
+If you need help, you can contact me on Discord: Eliott-B#5072
 
 ## DONATE
 
