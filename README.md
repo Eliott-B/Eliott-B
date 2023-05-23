@@ -8,7 +8,7 @@
 
 &nbsp;<img align="center" src="https://github-readme-stats-eliott-b.vercel.app//api?username=eliott-b&show_icons=true&locale=en" alt="eliott-b"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliott-b&" alt="eliott-b"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eliott-b)](https://git.io/streak-stats)
 
 ## HELP
 
