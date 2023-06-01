@@ -1,4 +1,5 @@
 ### Hi everyone 👋
+<a href="https://discord.gg/eufdGDkQq5"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 *My name is Eliott, I'm a french coder.*
 
@@ -21,6 +22,3 @@ If you need help, you can contact me on Discord: Eliott-B#5072
 If you want to support me, you can donate on [BuyMeACoffee](https://www.buymeacoffee.com/eliottb)
 
 <a href="https://www.buymeacoffee.com/eliottb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=eliottb&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-<br><br>
-<a href="https://discord.gg/eufdGDkQq5"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
