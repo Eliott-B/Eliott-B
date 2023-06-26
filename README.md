@@ -7,7 +7,7 @@
 
 <img align="center" src="https://github-readme-stats-eliott-b.vercel.app/api/top-langs?username=eliott-b&count_private=true&show_icons=true&locale=en&layout=compact" alt="eliott-b"/>
 
-&nbsp;<img align="center" src="https://github-readme-stats-eliott-b.vercel.app//api?username=eliott-b&count_private=true&show_icons=true&locale=en" alt="eliott-b"/>
+<img align="center" src="https://github-readme-stats-eliott-b.vercel.app//api?username=eliott-b&count_private=true&show_icons=true&locale=en" alt="eliott-b"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eliott-b&count_private=true)](https://git.io/streak-stats)
 
