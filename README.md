@@ -11,8 +11,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eliott-b&count_private=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eliott-b&theme=flat&title=Commit,Repository,Stars,Followers,Issue,PullRequest)](https://github-profile-trophy.vercel.app/?username=eliott-b)
-
 ## HELP
 
 If you need help, you can contact me on Discord: `.eliottb`
