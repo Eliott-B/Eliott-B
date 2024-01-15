@@ -1,7 +1,8 @@
 ### Hi everyone 👋
 <a href="https://discord.gg/eufdGDkQq5"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-*My name is Eliott, I'm a french coder.*
+*My name is Eliott, I'm a french coder.*  
+*I code Discord bots, lambda scripts and FiveM scripts. Sometimes there are also websites.*  
 
 ## STATISTICS
 
