@@ -13,6 +13,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=eliott-b&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ❔ HELP
+## ❔ CONTACT
 
-If you need help, you can contact me on Discord: `.eliottb`
+You can contact me at this email : [eliottb.info@gmail.com](mailto:eliottb.info@gmail.com)
