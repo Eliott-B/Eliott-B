@@ -4,7 +4,10 @@
 
 ## About Me
 
-:computer: Software Developer
+:computer: Software Developer  
+:fr: French  
+:mortar_board: Student at [IUT Vélizy](https://www.iut-velizy-rambouillet.uvsq.fr/)  
+:email: [contact@eliott-b.fr](mailto:contact@eliott-b.fr)  
 
 ## Languages most used
 
