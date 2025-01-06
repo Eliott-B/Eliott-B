@@ -1,6 +1,6 @@
 # Hi, I'm Eliott B :wave:
 
-![Profile Views](https://komarev.com/ghpvc/?username=VotreNom)
+![Profile Views](https://komarev.com/ghpvc/?username=Eliott-B)
 
 ## About Me
 
