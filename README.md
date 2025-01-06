@@ -9,6 +9,7 @@
 
 ## Find me on
 
-- :rocket: Terminal des devs - [https://discord.gg/terminal-des-devs-896803623886028900](https://discord.gg/terminal-des-devs-896803623886028900)
+- :rocket: Terminal des devs - [https://discord.gg/terminal-des-devs-896803623886028900](https://discord.gg/terminal-des-devs-896803623886028900)  
+- :spider_web: The Bleeding Block - [https://discord.gg/Yg2bsBQMhN](https://discord.gg/Yg2bsBQMhN)  
 
 Thanks for visiting my GitHub profile! :smile:
