@@ -1,18 +1,25 @@
-### Hi everyone 👋
-<a href="https://discord.gg/eufdGDkQq5"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+# Hi, I'm Eliott B :wave:
 
-*My name is Eliott, I'm a software developer.*  
+![Profile Views](https://komarev.com/ghpvc/?username=VotreNom)
 
-## 📊 STATISTICS
+## About Me
 
-<img align="center" src="https://github-readme-stats-eliott-b.vercel.app/api/top-langs?username=eliott-b&count_private=true&show_icons=true&locale=en&layout=compact" alt="eliott-b"/>
+:computer: Software Developer
 
-<img align="center" src="https://github-readme-stats-eliott-b.vercel.app//api?username=eliott-b&count_private=true&show_icons=true&locale=en" alt="eliott-b"/>
+## GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eliott-b&count_private=true)](https://git.io/streak-stats)
+![Stat](https://github-readme-stats-eliott-b.vercel.app//api?username=eliott-b&count_private=true&show_icons=true&locale=en)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eliott-b&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eliott-b&count_private=true)
 
-## ❔ CONTACT
+![Trophy](https://github-profile-trophy.vercel.app/?username=eliott-b&rank=-B,-C)
 
-You can contact me at this email : [eliottb.info@gmail.com](mailto:eliottb.info@gmail.com)
+## Languages most used
+
+![Top Langs](https://github-readme-stats-eliott-b.vercel.app/api/top-langs?username=eliott-b&count_private=true&show_icons=true&locale=en&layout=compact)  
+
+## Find me on
+
+- :rocket: Terminal des devs - [https://discord.gg/terminal-des-devs-896803623886028900](https://discord.gg/terminal-des-devs-896803623886028900)
+
+Thanks for visiting my GitHub profile! :smile:
