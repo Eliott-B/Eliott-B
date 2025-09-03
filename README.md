@@ -4,7 +4,7 @@
 
 :computer: Software Developer  
 :fr: French  
-:mortar_board: Student at [IUT Vélizy](https://www.iut-velizy-rambouillet.uvsq.fr/)  
+:mortar_board: Student at [Efrei](https://www.efrei.fr/)  
 :email: [contact@eliott-b.fr](mailto:contact@eliott-b.fr)  
 
 ## Find me on
